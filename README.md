@@ -6,8 +6,6 @@
 [![npm version](https://img.shields.io/npm/v/youtube-videos-uploader.svg?style=flat)](https://www.npmjs.com/package/youtube-videos-uploader)
 
 ------------
-**This project was cloned from [fawazahmed0/youtube-uploader](https://github.com/fawazahmed0/youtube-uploader)**
-
 **In the name of God, who has guided me to do this work**
 
 **Note1:** In case you find any issue, please raise an [issue](https://github.com/fawazahmed0/youtube-uploader/issues/new/choose), So that I can fix it.<br>
